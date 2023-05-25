@@ -2,7 +2,7 @@ package ru.netology.avia;
 
 import java.util.Objects;
 
-public class Ticket implements Comparable<Ticket> {
+public class Ticket implements Comparable<Ticket>{
 
     private String from; // аэропорт откуда
     private String to; // аэропорт куда
